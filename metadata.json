@@ -1,0 +1,6 @@
+{
+  "name": "LEXURY CAR",
+  "description": "Premium car importer and luxury automotive showroom in Ethiopia.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
